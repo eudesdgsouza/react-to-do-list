@@ -3,7 +3,7 @@ Uma aplicação simples e eficiente para organizar suas tarefas diárias. Constr
 
 ## Deploy
 
-- [Live]()
+- [Live](https://react-to-do-list-nu-eight.vercel.app/)
 
 ## 🚀 Funcionalidades  
 - Adicionar novas tarefas.  
