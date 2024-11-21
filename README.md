@@ -26,7 +26,7 @@ Siga as instruções abaixo para rodar o projeto localmente:
 
 1. Clone o repositório:  
    ```bash  
-   git clone https://github.com/seu-usuario/to-do-list.git  
+   git clone https://github.com/eudesdgsouza/react-to-do-list.git  
    ```  
 
 2. Navegue até a pasta do projeto:  
